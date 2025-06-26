@@ -1,0 +1,4 @@
+# Ignore dataset and virtual environment
+datasets/
+.venv/
+__pycache__/
