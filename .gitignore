@@ -1,4 +1,5 @@
 # Ignore dataset and virtual environment
 datasets/
 .venv/
+manual_test/
 __pycache__/
